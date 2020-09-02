@@ -1,6 +1,6 @@
 ![Image](./img/main.png)
 
-I am a MS student at Bioinformatics Laboratory led by Prof. Hyun-seok Park. 
+I am a MS student at Bioinformatics Laboratory led by Prof. Hyun-seok Park.   
 My research interests include deep learning applications as well as natural language processing, especially in the biomedical domain.
 
 ### Interests
@@ -13,7 +13,7 @@ Bioinformatics, Natural Language Processing and Machine Learning
 
 ### Education
 
-**Ewha Womans Unviersity**, Seoul, Korea 
+**Ewha Womans Unviersity**, Seoul, Korea.  
 Master of Science in Computer Science Engineering
 Bachelor of Science in Computer Science Engineering
 
