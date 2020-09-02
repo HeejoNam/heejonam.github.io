@@ -5,7 +5,7 @@ My research interests include deep learning applications as well as natural lang
 
 ### Interests
 
-Bioinformatics, Natural Language Processing and Machine Learning
+Bioinformatics, Natural Language Processing, and Machine Learning
 
 ### Research
 
@@ -18,6 +18,13 @@ Master of Science in Computer Science Engineering
 Bachelor of Science in Computer Science Engineering
 
 ### Honors and Awards
+
+Best Paper Award in Hanium Conference. 
+![paper](./img/IMG_0221.JPG). 
+2nd Place in Graduate Project Competition. 
+![GP](./img/IMG_0003.JPG). 
+2nd Place in Engineering Student Portfolio Contest. 
+![PP](./img/IMG_0004.JPG). 
 
 
 ```markdown
