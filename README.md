@@ -20,16 +20,14 @@ Bachelor of Science in Computer Science Engineering
 ### Honors and Awards
 
 Best Paper Award in Hanium Conference<br/> 
-![paper](./img/IMG_0221.JPG)<br/> 
+
 2nd Place in Graduate Project Competition<br/> 
-![GP](./img/IMG_0003.JPG)<br/>
+
 2nd Place in Engineering Student Portfolio Contest<br/> 
-![PP](./img/IMG_0004.JPG)<br/> 
+
 
 
 ```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -41,6 +39,4 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
