@@ -19,12 +19,12 @@ Bachelor of Science in Computer Science Engineering
 
 ### Honors and Awards
 
-Best Paper Award in Hanium Conference. 
-![paper](./img/IMG_0221.JPG) 
-2nd Place in Graduate Project Competition. 
-![GP](./img/IMG_0003.JPG)
-2nd Place in Engineering Student Portfolio Contest. 
-![PP](./img/IMG_0004.JPG) 
+Best Paper Award in Hanium Conference<br/> 
+![paper](./img/IMG_0221.JPG)<br/> 
+2nd Place in Graduate Project Competition<br/> 
+![GP](./img/IMG_0003.JPG)<br/>
+2nd Place in Engineering Student Portfolio Contest<br/> 
+![PP](./img/IMG_0004.JPG)<br/> 
 
 
 ```markdown
