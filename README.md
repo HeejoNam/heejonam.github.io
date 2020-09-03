@@ -14,8 +14,8 @@ Bioinformatics, Natural Language Processing, and Machine Learning
 ### Education
 
 **Ewha Womans Unviersity**, Seoul, Korea.  
-Master of Science in Computer Science Engineering<br/>
-Bachelor of Science in Computer Science Engineering
+Master of Science in Computer Science Engineering, Feb 2021<br/>
+Bachelor of Science in Computer Science Engineering, Feb 2019
 
 ### Honors and Awards
 
