@@ -16,7 +16,7 @@ Ministry of Science and ICT \hfill June 2019 - Present \\
 Korea Industry-University Cooperation Foundation \hfill June 2019 - Present \\
 
 - Multi-User Home-Training Healthcare System Using Kinect Sensor and Wearable Devices} 
-Ministry of Science and ICT \hfill February 2018 - June 2018 \\
+Ministry of Science and ICT \hfill February 2018 - June 2018 \\ [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
 
 ### Teaching Assistant
 
