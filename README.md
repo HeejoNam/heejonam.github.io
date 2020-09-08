@@ -10,13 +10,13 @@ Bioinformatics, Natural Language Processing, and Machine Learning
 ### Research
 
 - Linguistics Modelling of Non-coding DNA of Human Genome based on Annotations of Large-scale Epigenetics Projects 
-Ministry of Science and ICT \hfill June 2019 - Present \\
+Ministry of Science and ICT, June 2019 - Present
 
 - Development of Machine Translation Algorithm for Aviation Industry Language based on Artificial Intelligence Neural Network 
-Korea Industry-University Cooperation Foundation \hfill June 2019 - Present \\
+Korea Industry-University Cooperation Foundation, July 2018 - Feb 2019
 
 - Multi-User Home-Training Healthcare System Using Kinect Sensor and Wearable Devices} 
-Ministry of Science and ICT \hfill February 2018 - June 2018 \\ [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
+Ministry of Science and ICT, February 2018 - June 2018 \\ [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
 
 ### PUBLICATION
 
