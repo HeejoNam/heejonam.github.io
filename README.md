@@ -18,7 +18,7 @@ Korea Industry-University Cooperation Foundation, July 2018 - Feb 2019
 - Multi-User Home-Training Healthcare System Using Kinect Sensor and Wearable Devices} 
 Ministry of Science and ICT, February 2018 - June 2018 \\ [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
 
-## PUBLICATION
+## Publication
 
 1. Hee-Jo Nam, Ryota Yamada, and Hyun-Seok Park. “Using the PubAnnotation Ecosystem to Perform Agile Text Mining on Genomics &amp; Informatics: a Tutorial Review.” Genomics &amp; Informatics 18, no. 2 (2020). [pdf](https://genominfo.org/upload/pdf/gi-2020-18-2-e13.pdf)
 
@@ -30,13 +30,13 @@ Ministry of Science and ICT, February 2018 - June 2018 \\ [demo](https://www.you
 4. So-Yeon Oh, Ji-Hyeon Kim, Seo-Jin Kim, Hee-Jo Nam, and Hyun-Seok Park. “GNI Corpus Version 1.0: Annotated Full-Text Corpus of Genomics &amp; Informatics to Support Biomedical Information Extraction.” Genomics &amp; Informatics 16, no. 3 (2018): 75–77. 
 [pdf](https://genominfo.org/upload/pdf/gi-2018-16-3-75.pdf) 
 
-## PATENT
+## Patent
 
 Lee, H. J.; Kim, D. W.; Nam, H. J.; Lee, S. Y.; Haam, Y. K.\\ 
 "Supporting Method and System for Home Fitness". KR1020200074609 (2020).
 [patent](https://doi.org/10.8080/1020180163201)
 
-## PRESENTATION
+## Presentation
 
 Hee-jo Nam, Hyun-seok Park, "Genomics & Informatics Corpus Annotation Tool," \\in  Biomedical Linked Annotation Hackathon, Feb 2020.
 
