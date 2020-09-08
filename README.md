@@ -14,22 +14,21 @@ Bioinformatics, Natural Language Processing, and Machine Learning
 *`Travel Award`* [`paper`](https://genominfo.org/upload/pdf/gi-2020-18-2-e13.pdf)
 
 **Trends in Genomics & Informatics: a Statistical Review of Publications from 2003 to 2018 Focusing on the Most-Studied Genes and Document Clusters**<br/>
-[paper](https://genominfo.org/upload/pdf/gi-2019-17-3-e25.pdf)
+[`paper`](https://genominfo.org/upload/pdf/gi-2019-17-3-e25.pdf)
 
 **Development of Machine Translation Algorithm for Aviation Industry Language based on Artificial Intelligence Neural Network**<br/> 
 
 **GNI Corpus Version 1.0: Annotated Full-Text Corpus of Genomics & Informatics to Support Biomedical Information Extraction**<br/>
-[paper](https://genominfo.org/upload/pdf/gi-2018-16-3-75.pdf) 
+[`paper`](https://genominfo.org/upload/pdf/gi-2018-16-3-75.pdf) 
 
 **Multi-User Home-Training Healthcare System Using Kinect Sensor and Wearable Devices**<br/> 
-*`Best Paper Award`*   
-[paper](https://drive.google.com/file/d/1UOr8o4n1I96SHbNpzIr14przjWCwSnEy/view?usp=sharing) . [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
+*`Best Paper Award`* [`paper`](https://drive.google.com/file/d/1UOr8o4n1I96SHbNpzIr14przjWCwSnEy/view?usp=sharing) . [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
 
 ## Patent
 
 **Supporting Method and System for Home Fitness**<br/>
 Hyungjune Lee, Da-Won Kim, Hee-Jo Nam, Seung-Yeon Lee, You-Kyung Haam.<br/> 
-[link](https://doi.org/10.8080/1020180163201)
+[`link`](https://doi.org/10.8080/1020180163201)
 
 ## Teaching Assistant
 
