@@ -40,22 +40,16 @@ Hyungjune Lee, Da-Won Kim, Hee-Jo Nam, Seung-Yeon Lee, You-Kyung Haam.
 ## Teaching Assistant
 
 - Software-based Convergence System Design, Spring 2020
-Teaching Assistant, Ewha Womans University
 
 - Machine Learning and Artificial Intelligence, Spring 2020
-Teaching Assistant, Ewha Womans University
 
 - Java Programming and Labs, Fall 2019
-Teaching Assistant, Ewha Womans University
  
 - One-stop Tutoring, Tutor, Fall 2019
-Teaching Assistant, Ewha Womans University
 
 - Artificial Intelligence, Spring 2019
-Teaching Assistant, Ewha Womans University
 
-- Introductory Creative Convergence Basic Design} \hfill Spring 2019 \\
-Teaching Assistant, Ewha Womans University
+- Introductory Creative Convergence Basic Design, Spring 2019
 
 ## Education
 
