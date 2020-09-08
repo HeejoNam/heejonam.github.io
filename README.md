@@ -9,24 +9,21 @@ Bioinformatics, Natural Language Processing, and Machine Learning
 
 ## Research
 **Linguistics Modelling of Non-coding DNA of Human Genome based on Annotations of Large-scale Epigenetics Projects**<br/> 
-Ministry of Science and ICT, June 2019 - Present
 
 **Using the PubAnnotation Ecosystem to Perform Agile Text Mining on Genomics & Informatics**<br/>
-*Travel Award*  
+### Travel Award ###  
 [paper](https://genominfo.org/upload/pdf/gi-2020-18-2-e13.pdf)
 
 **Trends in Genomics & Informatics: a Statistical Review of Publications from 2003 to 2018 Focusing on the Most-Studied Genes and Document Clusters**<br/>
 [paper](https://genominfo.org/upload/pdf/gi-2019-17-3-e25.pdf)
 
 **Development of Machine Translation Algorithm for Aviation Industry Language based on Artificial Intelligence Neural Network**<br/> 
-Korea Industry-University Cooperation Foundation, July 2018 - Feb 2019
 
 **GNI Corpus Version 1.0: Annotated Full-Text Corpus of Genomics & Informatics to Support Biomedical Information Extraction**<br/>
 [paper](https://genominfo.org/upload/pdf/gi-2018-16-3-75.pdf) 
 
 **Multi-User Home-Training Healthcare System Using Kinect Sensor and Wearable Devices**<br/> 
-Ministry of Science and ICT, February 2018 - June 2018.  
-*Best Paper Award*   
+### Best Paper Award ###   
 [paper](https://drive.google.com/file/d/1UOr8o4n1I96SHbNpzIr14przjWCwSnEy/view?usp=sharing) . [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
 
 ## Patent
