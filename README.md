@@ -20,15 +20,15 @@ Ministry of Science and ICT, February 2018 - June 2018 \\ [demo](https://www.you
 
 ### PUBLICATION
 
-Hee-Jo Nam, Ryota Yamada, and Hyun-Seok Park. “Using the PubAnnotation Ecosystem to Perform Agile Text Mining on Genomics &amp; Informatics: a Tutorial Review.” Genomics &amp; Informatics 18, no. 2 (2020). [journal](https://doi.org/10.5808/gi.2020.18.2.e13.)
+1. Hee-Jo Nam, Ryota Yamada, and Hyun-Seok Park. “Using the PubAnnotation Ecosystem to Perform Agile Text Mining on Genomics &amp; Informatics: a Tutorial Review.” Genomics &amp; Informatics 18, no. 2 (2020). [pdf](https://genominfo.org/upload/pdf/gi-2020-18-2-e13.pdf)
 
-Ji-Hyeon Kim, Hee-Jo Nam, and Hyun-Seok Park. “Trends in Genomics &amp; Informatics: a Statistical Review of Publications from 2003 to 2018 Focusing on the Most-Studied Genes and Document Clusters.” Genomics &amp; Informatics 17, no. 3 (2019). [journal](https://doi.org/10.5808/gi.2019.17.3.e25.)
+2. Ji-Hyeon Kim, Hee-Jo Nam, and Hyun-Seok Park. “Trends in Genomics &amp; Informatics: a Statistical Review of Publications from 2003 to 2018 Focusing on the Most-Studied Genes and Document Clusters.” Genomics &amp; Informatics 17, no. 3 (2019). [pdf](https://genominfo.org/upload/pdf/gi-2019-17-3-e25.pdf)
 
-Da-Won Kim, Hee-Jo Nam, Seung-Yeon Lee, You-Kyung Haam, O-K Seo, and Hyungjune Lee. “Multi-User Home-Training Healthcare System Using Kinect Sensor and Wearable Devices.” The Journal of Korean Institute of Communications and Information Sciences 44, no. 4 (2019): 719–27. 
-[journal](https://doi.org/10.7840/kics.2019.44.4.719.)
+3. Da-Won Kim, Hee-Jo Nam, Seung-Yeon Lee, You-Kyung Haam, O-K Seo, and Hyungjune Lee. “Multi-User Home-Training Healthcare System Using Kinect Sensor and Wearable Devices.” The Journal of Korean Institute of Communications and Information Sciences 44, no. 4 (2019): 719–27. 
+[pdf](https://drive.google.com/file/d/1UOr8o4n1I96SHbNpzIr14przjWCwSnEy/view?usp=sharing)
 
-So-Yeon Oh, Ji-Hyeon Kim, Seo-Jin Kim, Hee-Jo Nam, and Hyun-Seok Park. “GNI Corpus Version 1.0: Annotated Full-Text Corpus of Genomics &amp; Informatics to Support Biomedical Information Extraction.” Genomics &amp; Informatics 16, no. 3 (2018): 75–77. 
-[journal](https://doi.org/10.5808/gi.2018.16.3.75) 
+4. So-Yeon Oh, Ji-Hyeon Kim, Seo-Jin Kim, Hee-Jo Nam, and Hyun-Seok Park. “GNI Corpus Version 1.0: Annotated Full-Text Corpus of Genomics &amp; Informatics to Support Biomedical Information Extraction.” Genomics &amp; Informatics 16, no. 3 (2018): 75–77. 
+[pdf](https://genominfo.org/upload/pdf/gi-2018-16-3-75.pdf) 
 
  
 ### PRESENTATION
@@ -88,8 +88,3 @@ Teaching Assistant, Ewha Womans University
 **Ewha Womans Unviersity**, Seoul, Korea.  
 Master of Science in Computer Science Engineering, Feb 2021<br/>
 Bachelor of Science in Computer Science Engineering, Feb 2019
-
-
-```markdown
-**Bold** and _Italic_ and `Code` text
-```
