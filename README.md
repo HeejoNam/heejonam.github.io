@@ -11,8 +11,7 @@ Bioinformatics, Natural Language Processing, and Machine Learning
 **Linguistics Modelling of Non-coding DNA of Human Genome based on Annotations of Large-scale Epigenetics Projects**<br/> 
 
 **Using the PubAnnotation Ecosystem to Perform Agile Text Mining on Genomics & Informatics**<br/>
-*`Travel Award`*<br/>
-[paper](https://genominfo.org/upload/pdf/gi-2020-18-2-e13.pdf)
+*`Travel Award`* `[paper](https://genominfo.org/upload/pdf/gi-2020-18-2-e13.pdf)`
 
 **Trends in Genomics & Informatics: a Statistical Review of Publications from 2003 to 2018 Focusing on the Most-Studied Genes and Document Clusters**<br/>
 [paper](https://genominfo.org/upload/pdf/gi-2019-17-3-e25.pdf)
