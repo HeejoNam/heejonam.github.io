@@ -22,7 +22,7 @@ Bioinformatics, Natural Language Processing, and Machine Learning
 [`paper`](https://genominfo.org/upload/pdf/gi-2018-16-3-75.pdf) 
 
 **Multi-User Home-Training Healthcare System Using Kinect Sensor and Wearable Devices**<br/> 
-*`Best Paper Award`* [`paper`](https://drive.google.com/file/d/1UOr8o4n1I96SHbNpzIr14przjWCwSnEy/view?usp=sharing) . [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
+*`Best Paper Award`* [`paper`](https://drive.google.com/file/d/1UOr8o4n1I96SHbNpzIr14przjWCwSnEy/view?usp=sharing) [`demo`](https://www.youtube.com/watch?v=v5fK2L9En_w)
 
 ## Patent
 
