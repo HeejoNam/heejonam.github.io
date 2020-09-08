@@ -8,10 +8,10 @@ My research interests include deep learning applications as well as natural lang
 Bioinformatics, Natural Language Processing, and Machine Learning
 
 ## Research
-1. Linguistics Modelling of Non-coding DNA of Human Genome based on Annotations of Large-scale Epigenetics Projects<br/> 
+**Linguistics Modelling of Non-coding DNA of Human Genome based on Annotations of Large-scale Epigenetics Projects<br/> 
 
-2. Using the PubAnnotation Ecosystem to Perform Agile Text Mining on Genomics & Informatics<br/>
-*Travel Award*  
+**Using the PubAnnotation Ecosystem to Perform Agile Text Mining on Genomics & Informatics**<br/>
+<center>Travel Award</center>
 [paper](https://genominfo.org/upload/pdf/gi-2020-18-2-e13.pdf)
 
 **Trends in Genomics & Informatics: a Statistical Review of Publications from 2003 to 2018 Focusing on the Most-Studied Genes and Document Clusters**<br/>
