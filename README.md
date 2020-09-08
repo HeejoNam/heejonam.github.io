@@ -8,7 +8,6 @@ My research interests include deep learning applications as well as natural lang
 Bioinformatics, Natural Language Processing, and Machine Learning
 
 ## Research
-<center>
 **Linguistics Modelling of Non-coding DNA of Human Genome based on Annotations of Large-scale Epigenetics Projects**<br/> 
 Ministry of Science and ICT, June 2019 - Present
 
@@ -29,13 +28,12 @@ Korea Industry-University Cooperation Foundation, July 2018 - Feb 2019
 Ministry of Science and ICT, February 2018 - June 2018.  
 *Best Paper Award*   
 [paper](https://drive.google.com/file/d/1UOr8o4n1I96SHbNpzIr14przjWCwSnEy/view?usp=sharing) . [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
-</center>
+
 ## Patent
 
-***Supporting Method and System for Home Fitness***<br/>
+**Supporting Method and System for Home Fitness**<br/>
 Hyungjune Lee, Da-Won Kim, Hee-Jo Nam, Seung-Yeon Lee, You-Kyung Haam.<br/> 
 [link](https://doi.org/10.8080/1020180163201)
-
 
 ## Teaching Assistant
 
