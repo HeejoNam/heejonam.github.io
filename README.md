@@ -11,7 +11,7 @@ Bioinformatics, Natural Language Processing, and Machine Learning
 **Linguistics Modelling of Non-coding DNA of Human Genome based on Annotations of Large-scale Epigenetics Projects**<br/> 
 
 **Using the PubAnnotation Ecosystem to Perform Agile Text Mining on Genomics & Informatics**<br/>
-'Travel Award'<br/>
+*`Travel Award`*<br/>
 [paper](https://genominfo.org/upload/pdf/gi-2020-18-2-e13.pdf)
 
 **Trends in Genomics & Informatics: a Statistical Review of Publications from 2003 to 2018 Focusing on the Most-Studied Genes and Document Clusters**<br/>
@@ -23,7 +23,7 @@ Bioinformatics, Natural Language Processing, and Machine Learning
 [paper](https://genominfo.org/upload/pdf/gi-2018-16-3-75.pdf) 
 
 **Multi-User Home-Training Healthcare System Using Kinect Sensor and Wearable Devices**<br/> 
-*Best Paper Award*   
+*`Best Paper Award`*   
 [paper](https://drive.google.com/file/d/1UOr8o4n1I96SHbNpzIr14przjWCwSnEy/view?usp=sharing) . [demo](https://www.youtube.com/watch?v=v5fK2L9En_w)
 
 ## Patent
