@@ -28,7 +28,7 @@ Bioinformatics, Natural Language Processing, and Machine Learning
 
 **Supporting Method and System for Home Fitness**<br/>
 Hyungjune Lee, Da-Won Kim, Hee-Jo Nam, Seung-Yeon Lee, You-Kyung Haam.<br/> 
-[`link`](https://doi.org/10.8080/1020180163201)
+[`link`](https://patents.google.com/patent/KR20200074609A/en?q=SUPPORTING+METHOD+AND+SYSTEM+FOR+HOME+FITNESS&oq=SUPPORTING+METHOD+AND+SYSTEM+FOR+HOME+FITNESS)
 
 ## Teaching Assistant
 
